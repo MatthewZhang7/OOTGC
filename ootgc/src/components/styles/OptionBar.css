@@ -1,0 +1,18 @@
+.optionDiv{
+    background-color: #0F84FD;
+    border-radius: 30px;
+    padding:0px 24px;
+    cursor: pointer;
+}
+.selectedDiv{
+    background-color: #57728D;
+    border-radius: 30px;
+    padding:0px 24px;
+    cursor: pointer;
+}
+.text{
+    color:white;
+    text-align: left;
+    font-weight: 400;
+    font-size: 36;
+}
